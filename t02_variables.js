@@ -6,9 +6,11 @@
  ****************************/
 
  //Variables 
+ var Year = 2025;
+ 
   let pocketMoney =3;
   console.log("pocketMoney")
-  console.log("You have, "pocketMoney,"dollars);
+  console.log("You have", pocketMoney,"dollars");
  
  
  /****************************
