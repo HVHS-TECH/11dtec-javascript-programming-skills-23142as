@@ -40,7 +40,7 @@ var answer;
 
    var username = prompt("What is your name?", "Yuvi the loner")
   alert("Welcome to my program" + username + "!\n Please entire your name");
- prompt("What is your name?");
+   prompt("What is your name?");
 
  
  
