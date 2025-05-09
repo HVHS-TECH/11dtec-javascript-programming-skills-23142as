@@ -39,7 +39,7 @@ var answer;
   console.log("Half of your money is",answer )
 
    var username =( "Yuvi the loner")
-  alert("Welcome to my program" + username + "!\n Please entire your name");
+  alert("Welcome to my program " + username + "!\n Please entire your name");
    prompt("What is your name?");
 
  
