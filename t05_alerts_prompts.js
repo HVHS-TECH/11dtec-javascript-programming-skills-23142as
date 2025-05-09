@@ -41,8 +41,9 @@ var answer;
    var username =( "Yuvi the loner")
   alert("Welcome to my program " + username + "!\n Please entire your name");
    prompt("What is your name?");
-   prompt("Ask the user their age");
- 
+   prompt(" Please entire your age ");
+ prompt(" how much pocket money do you have?");
+ prompt(" ");
  
  /****************************
   Functions
