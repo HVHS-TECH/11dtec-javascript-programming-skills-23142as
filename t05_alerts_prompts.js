@@ -20,12 +20,15 @@ var Num2 = 2;
 
 var answer;
 
-  let pocketMoney =3;
+ 
  
 
  /****************************
   Main code 
  ****************************/
+var Age = 15;
+ var Year = 2025;
+let pocketMoney =3;
 
   console.log("pocketMoney")
   console.log("pocketMoney")
