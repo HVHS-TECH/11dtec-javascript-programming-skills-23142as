@@ -43,7 +43,7 @@ var answer;
    prompt("What is your name?");
    prompt(" Please entire your age ");
  prompt(" how much pocket money do you have?");
- 
+ alert("Hi " + userName + "\nas of 2/5/2025 you are " + age + " years old!\nYou were born in " + birth + "\nIn ten years you will be " + age + 10 + " years old!");
  
  /****************************
   Functions
