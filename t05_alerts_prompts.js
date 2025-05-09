@@ -21,9 +21,14 @@ var Num2 = 2;
 var answer;
 
   let pocketMoney =3;
-  console.log("pocketMoney")
+ 
 
-  
+ /****************************
+  Main code 
+ ****************************/
+
+  console.log("pocketMoney")
+  console.log("pocketMoney")
   console.log("Hi Adarsh");
   console.log("As of", Year, "You are", Age);
   console.log("You were born in", Born)
@@ -35,10 +40,6 @@ var answer;
  
   alert("Welcome to my program")
  var username = prompt("What is your name?", "Yuvi the loner")
- /****************************
-  Main code 
- ****************************/
- 
  
  
  
