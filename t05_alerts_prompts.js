@@ -43,7 +43,7 @@ var answer;
    prompt("What is your name?");
    prompt(" Please entire your age ");
  prompt(" how much pocket money do you have?");
- prompt(" ");
+ alert("")
  
  /****************************
   Functions
