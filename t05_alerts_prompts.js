@@ -33,6 +33,7 @@ var answer;
   answer = pocketMoney/Num2
   console.log("Half of your money is",answer )
  
+  alert("Welcome to my program")
  var username = prompt("What is your name?", "Yuvi the loner")
  /****************************
   Main code 
