@@ -43,13 +43,11 @@ var Born = 2010;
   console.log("Half of your money is",answer )
 
   var username =( "Yuvi the loner")
+  var newName;
   alert("Welcome to my program " + username + "!\n Please entire your name");
-  prompt("What is your name?");
+  newName = prompt("What is your name?");
   prompt(" Please entire your age ");
   prompt(" how much pocket money do you have?");
+
   var ageingten = Age + 10;
-  alert("Hi " + username + "\nas of 2/5/2025 you are " + Age + " years old!\nYou were born in " + Born + "\nIn ten years you will be " + ageinten + " years old!");
- 
- /****************************
-  Functions
- ****************************/
+  alert("Hi " + newName + "\nas of 2/5/2025 you are " + Age + " years old!\nYou were born in " + Born + "\nIn ten years you will be " + ageingten + " years old!");
