@@ -55,6 +55,8 @@ var Born = 2010;
 
   let classArray = ["Chocolate is bad", "Chocolate is meh", "Chocolate is pretty good",  "Chocolate is best thing EVER"];
  prompt("On a scale of 0-3 how much do you like chocolate");
+
+ let choice = prompt("Pick number from")
  /****************************
   Functions
  ****************************/
