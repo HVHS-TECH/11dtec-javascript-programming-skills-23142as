@@ -46,7 +46,7 @@ var Born = 2010;
   var newName;
   alert("Welcome to my program " + username + "!\n Please entire your name");
   newName = prompt("What is your name?");
-  Age = Numberprompt(" Please enter your age ");
+  Age = Number(prompt(" Please enter your age "));
   prompt(" how much pocket money do you have?");
 
   Born = (Year- Age);
