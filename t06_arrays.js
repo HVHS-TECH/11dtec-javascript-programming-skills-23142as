@@ -57,7 +57,7 @@ var Born = 2010;
  let choice = prompt("On a scale of 0-3 how much do you like chocolate");
 
  
-alert("Your chosen number was" +choice+ ".\nYou think" +classArray [choice]);
+alert("Your chosen number was " +choice+ ".\nYou think " +classArray [choice]);
 
 
  /****************************
