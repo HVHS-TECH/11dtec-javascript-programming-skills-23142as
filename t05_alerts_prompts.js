@@ -46,8 +46,10 @@ var Born = 2010;
   var newName;
   alert("Welcome to my program " + username + "!\n Please entire your name");
   newName = prompt("What is your name?");
-  prompt(" Please enter your age ");
+  Age = Number(prompt(" Please enter your age "));
   prompt(" how much pocket money do you have?");
+
+  Born = (Year- Age);
 
   var ageingten = Age + 10;
   alert("Hi " + newName + "\nas of 2/5/2025 you are " + Age + " years old!\nYou were born in " + Born + "\nIn ten years you will be " + ageingten + " years old!");

@@ -26,7 +26,8 @@ var answer;
  /****************************
   Main code 
  ****************************/
-var Age = 15;
+/*
+  var Age = 15;
 var Year = 2025;
 let pocketMoney =3;
 var Born = 2010;
@@ -46,8 +47,10 @@ var Born = 2010;
   var newName;
   alert("Welcome to my program " + username + "!\n Please entire your name");
   newName = prompt("What is your name?");
-  prompt(" Please enter your age ");
-  prompt(" how much pocket money do you have?");
+  Age = Number(prompt(" Please enter your age "));
+  clientMoney = prompt(" how much pocket money do you have?");
+
+  Born = (Year- Age);
 
   var ageingten = Age + 10;
   alert("Hi " + newName + "\nas of 2/5/2025 you are " + Age + " years old!\nYou were born in " + Born + "\nIn ten years you will be " + ageingten + " years old!");
@@ -58,7 +61,16 @@ var Born = 2010;
 
  
 alert("Your chosen number was " +choice+ ".\nYou think " +classArray [choice]);
+alert("Hi " +newName );
+*/
+  clientMoney = prompt(" how much pocket money do you have?");
 
+if (clientMoney < 4){
+  alert("Your pocket money is " +clientMoney+ " dollars.\n Sorry you CAN'T afford a chocolate bar")
+} else { 
+alert("Your pocket money is " +clientMoney+ " dollars.\n You can afford a chocolate bar")
+
+}
 
  /****************************
   Functions
