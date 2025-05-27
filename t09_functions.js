@@ -12,7 +12,8 @@ console.log("Yuvi is the rizzler and has the huz now😁👍👌😘😘");
 /****************************
  Main code 
 ****************************/
-
+getFavColour();
+getFavAge();
 
 
 
@@ -28,3 +29,4 @@ function getFavAge () {
 userFavAge = prompt("What is your age?")
 alert("Your age is: " + userFavAge)
 }
+
