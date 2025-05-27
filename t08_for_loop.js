@@ -4,7 +4,7 @@
  Date written: 4/29/2025
  Purpose: Introduction to Javascript and how it works
  ****************************/
-console.log("Yuvi relationship, is a rollercaster emotions, some times in deep love and sometimes in anger and revenge.");
+console.log("Yuvi is the rizzler and has the huz now😁👍👌😘😘");
 
 //Variables 
 
@@ -12,7 +12,14 @@ console.log("Yuvi relationship, is a rollercaster emotions, some times in deep l
 /****************************
  Main code 
 ****************************/
-
+var answer;
+console.log("Loop stopped!");
+ for (count=0;count<5;count++){
+  var nums =  prompt ("Pick a number")
+  nums = Number(nums)
+ }
+ answer = nums+nums+nums+nums+nums;
+ console.log(answer)
 
 
 
