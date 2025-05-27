@@ -12,14 +12,18 @@ console.log("Yuvi is the rizzler and has the huz now😁👍👌😘😘");
 /****************************
  Main code 
 ****************************/
-getFavColour();
-getFavAge();
+
 
 
 
 /****************************
  Functions
 ****************************/
+function start () {
+getFavColour();
+getFavAge();
+}
+
 function getFavColour () {
 userFavColour = prompt("What is your name?")
 alert("Your name is: " + userFavColour)
