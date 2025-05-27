@@ -12,14 +12,7 @@ console.log("Yuvi is the rizzler and has the huz now😁👍👌😘😘");
 /****************************
  Main code 
 ****************************/
-var answer;
-console.log("Loop stopped!");
- for (count=0;count<5;count++){
-  var nums =  prompt ("Pick a number")
-  nums = Number(nums)
- }
- answer = nums+nums+nums+nums+nums;
- console.log(answer)
+
 
 
 
@@ -31,7 +24,7 @@ userFavColour = prompt("What is your name?")
 alert("Your name is: " + userFavColour)
 }
 
-function getFavColour () {
+function getFavAge () {
 userFavAge = prompt("What is your age?")
 alert("Your age is: " + userFavAge)
 }
