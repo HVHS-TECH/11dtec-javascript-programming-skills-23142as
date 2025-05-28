@@ -12,7 +12,7 @@ console.log("Yuvi relationship, is a rollercaster emotions, some times in deep l
 /****************************
  Main code 
 ****************************/
-
+while ()
 
 
 
