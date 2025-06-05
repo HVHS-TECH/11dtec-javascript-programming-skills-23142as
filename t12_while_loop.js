@@ -12,9 +12,13 @@ console.log("Yuvi relationship, is a rollercaster emotions, some times in deep l
 /****************************
  Main code 
 ****************************/
-while ()
+noLoops = prompt("Do you want to conutince this?")
+while ( noLoops != "no") {
+    alert("Do you want to conutinue this again?(yes or no)")
+noLoops = prompt("Do you want to conutinue this again?")
+}
 
-
+alert("It has stopped")
 
 /****************************
  Functions
